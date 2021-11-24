@@ -929,9 +929,6 @@ li {
   .technology {
     height: 885px;
   }
-  .technology__content-box {
-    left: 66px;
-  }
   .technology__content-num {
     font-size: 90px;
     line-height: 100px;
@@ -1209,6 +1206,10 @@ li {
   }
 
   .col-3 {
+    width: 100%;
+  }
+
+  .col-4 {
     width: 100%;
   }
 

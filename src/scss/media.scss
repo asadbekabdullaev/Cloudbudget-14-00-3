@@ -169,10 +169,7 @@
     height: 885px;
 
     &__content {
-      &-box {
-        left: 66px;
-      }
-
+      
       &-num {
         font-size: 90px;
         line-height: 100px;
@@ -467,6 +464,12 @@
 
   }
 
+  .technology{
+    &__content{
+
+    }
+  }
+
   .contact {
 
     &__form {
@@ -508,6 +511,9 @@
   }
 
   .col-3 {
+    width: 100%;
+  }
+  .col-4 {
     width: 100%;
   }
 
